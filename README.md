@@ -61,6 +61,7 @@ Software and extensions designed to turn authentic media into interactive learni
 ### Video & Audio Tools
 
 - [SubSynth](https://github.com/subsynth/subsynth) — Subtitle processing engine for creating dual-language captions and sentence-bank audio clips automatically.
+- [WinkLingo](https://winklingo.com/en/movie-quote-finder) - Free searchable index of 200M+ movie and YouTube spoken English lines with cross-lingual search, bilingual subtitles, and instant clip playback.
 
 ## Related Awesome Lists
 
